@@ -1,0 +1,76 @@
+
+body {
+  background-color: #F3F6F7;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Ojuju", sans-serif;
+  color: #263D42;
+  font-size: 3rem;
+}
+
+h2 {
+  color: #263D42;
+  font-size: 2rem;
+  font-family: "Ojuju", sans-serif;
+}
+
+p {
+  font-family: "Yrsa", serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  background: white;                         /* White background */
+  padding: 30px;                             /* Internal space */
+  border-radius: 4px;                        /* Small radius */
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+  width: 60%;
+  margin: 1.5rem auto;
+}
+
+
+section {
+  background: white;                         /* White background */
+  padding: 30px;                             /* Internal space */
+  border-radius: 4px;                        /* Small radius */
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+  width: 60%;
+  margin: 1.5rem auto;
+}
+
+#avatar {
+  border-radius: 50%;
+  width: 200px;
+  color: purple
+}
+
+.section-title {
+  color: #63C7B2;
+}
+
+.link-button {
+  text-decoration: none;
+  background-color: #8E6C88;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline;
+  margin-right: 1rem;
+}
+
+ul li a {
+  font-size: 2rem;
+}
